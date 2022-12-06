@@ -5260,3 +5260,6 @@
     line-height: var(--e-global-typography-text-line-height);
   }
 }
+.mname{
+  font-size: 95%;
+}

@@ -1845,7 +1845,7 @@ body.rtl .elementor-347 .elementor-element.elementor-element-c81d81c {
   }
 }
 
-@media(max-width:10px) {
+@media(max-width:1024px) {
   .elementor-347 .elementor-element.elementor-element-cd08c63 .elementor-heading-title {
     font-size: var(--e-global-typography-secondary-font-size);
     line-height: var(--e-global-typography-secondary-line-height);
@@ -3207,7 +3207,7 @@ body.rtl .elementor-347 .elementor-element.elementor-element-c81d81c {
   }
 }
 
-@media(max-width:10px) and (min-width:768px) {
+@media(max-width:1024px) and (min-width:768px) {
   .elementor-347 .elementor-element.elementor-element-3f89bd1 {
     width: 100%;
   }
